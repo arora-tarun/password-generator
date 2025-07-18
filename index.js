@@ -1,4 +1,3 @@
-// Selecting Element
 const passwordInput = document.getElementById("passwordInput");
 const copyBtn = document.getElementById("copy-btn");
 const rangeSlider = document.getElementById("range");
